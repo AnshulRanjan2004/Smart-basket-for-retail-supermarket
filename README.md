@@ -2,7 +2,8 @@
 
 
 
-#Hardware:
+#Hardware:  
+
 items used:
 1) LCD TFT display
 2) Ardruino Mega Board
